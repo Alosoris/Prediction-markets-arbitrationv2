@@ -1,0 +1,7 @@
+/* Fichier : styles/globals.css */
+
+@tailwind base;        /* Les styles de base de Tailwind (comme la réinitialisation CSS) */
+@tailwind components;  /* Les styles de composants prédéfinis (si vous en utilisez) */
+@tailwind utilities;   /* TOUTES vos classes utilitaires (text-white, bg-slate-900, etc.) */
+
+/* C'est ici que le moteur Tailwind va insérer le CSS généré */
